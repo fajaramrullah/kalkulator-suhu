@@ -1,2 +1,3 @@
-# tugas-uts.github.io
-Tugas UTS Mobile Computing
+# Tugas UTS Mobile Computing
+
+Repo untuk pengumpulan tugas UTS.
